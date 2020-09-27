@@ -1,5 +1,2 @@
-console.log("Hello World")
-console.log("Hello World")
-console.log("Hello World")
-
-console.log('this is a test')
+console.log("hello")
+console.log('world')
