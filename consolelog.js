@@ -4,3 +4,6 @@ console.log('world')
 console.log('hello, world')
 
 console.log('toshi and yuki are cats')
+
+
+console.log(3 + 1)
