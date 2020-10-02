@@ -7,3 +7,7 @@ console.log('toshi and yuki are cats')
 
 // this is a comment
 console.log(3 + 1)
+
+// adding more comments 
+// in multiple rows
+// like this
