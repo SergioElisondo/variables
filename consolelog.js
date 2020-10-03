@@ -11,3 +11,6 @@ console.log(3 + 1)
 // adding more comments 
 // in multiple rows
 // like this
+
+// just a test
+console.log(3 + 2 + 1 + 25 * (2 + 1))
