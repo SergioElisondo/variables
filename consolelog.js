@@ -14,3 +14,6 @@ console.log(3 + 1)
 
 // just a test
 console.log(3 + 2 + 1 + 25 * (2 + 1))
+
+// outputs strings
+console.log("hello", "2 + 1")
