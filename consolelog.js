@@ -20,3 +20,8 @@ console.log("hello", "2 + 1")
 
 // outputs math
 console.log('hello', 2 + 1)
+
+
+// declaring a variable
+let cats = toshi
+console.log(cats)
