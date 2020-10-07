@@ -23,5 +23,5 @@ console.log('hello', 2 + 1)
 
 
 // declaring a variable
-let cats = toshi
+let cats = "toshi, yuki"
 console.log(cats)
