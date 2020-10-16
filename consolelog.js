@@ -22,6 +22,10 @@ console.log("hello", "2 + 1")
 console.log('hello', 2 + 1)
 
 
-// declaring a variable
-let cats = "toshi, yuki"
+// declaring a variable using a string
+let cats = "toshi, yuki"s
 console.log(cats)
+
+// math problem in variable
+let math = 2 + 1
+console.log(math)
