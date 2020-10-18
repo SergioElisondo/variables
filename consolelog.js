@@ -3,7 +3,7 @@ console.log('world')
 
 console.log('hello, world')
 
-console.log('toshi and yuki are cats')
+console.log('toshi and yuki are cats. They are 12 years old')
 
 // this is a comment
 console.log(3 + 1)
