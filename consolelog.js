@@ -29,3 +29,7 @@ console.log(cats)
 // math problem in variable
 let math = 2 + 1
 console.log(math)
+
+
+let math = 8 * 3
+console.log(math)
