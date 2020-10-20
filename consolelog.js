@@ -23,7 +23,7 @@ console.log('hello', 2 + 1)
 
 
 // declaring a variable using a string
-let cats = "toshi, yuki"s
+let cats = "toshi, yuki"
 console.log(cats)
 
 // math problem in variable
