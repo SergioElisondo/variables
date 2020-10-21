@@ -31,5 +31,5 @@ let math = 2 + 1
 console.log(math)
 
 
-let math = 8 * 3
-console.log(math)
+let math1 = 8 * 3
+console.log(math1)
