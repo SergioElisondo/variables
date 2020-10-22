@@ -16,7 +16,7 @@ console.log(3 + 1)
 console.log(3 + 2 + 1 + 25 * (2 + 1))
 
 // outputs strings
-console.log("hello", "2 + 1")
+console.log("hello", "2 + 1", 2 + 1)
 
 // outputs math
 console.log('hello', 2 + 1)
@@ -33,3 +33,4 @@ console.log(math)
 
 let math1 = 8 * 3
 console.log(math1)
+
