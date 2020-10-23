@@ -19,7 +19,7 @@ console.log(3 + 2 + 1 + 25 * (2 + 1))
 console.log("hello", "2 + 1", 2 + 1)
 
 // outputs math
-console.log('hello', 2 + 1)
+console.log('hello', 100 / 25)
 
 
 // declaring a variable using a string
