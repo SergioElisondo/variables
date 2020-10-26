@@ -36,5 +36,5 @@ console.log(math1)
 
 let yuki = 10
 let toshi = 10
-console.log(yuki + toshi)
+console.log(yuki + toshi + 1)
 
