@@ -40,3 +40,7 @@ console.log(yuki + toshi + 1 - 5 + 2)
 console.log(yuki)
 console.log(toshi)
 
+
+let gatos = (yuki, toshi)
+console.log =(gatos)
+
