@@ -9,3 +9,7 @@ console.log(x)
 // -=	Subtraction assignment	Subtracts the value on the right from the variable value on the left, and returns the new variable value	x -= 3;	x = x - 3;
 // *=	Multiplication assignment	Multiplies the variable value on the left by the value on the right, and returns the new variable value	x *= 3;	x = x * 3;
 // /=	Division assignment	Divides the variable value on the left by the value on the right, and returns the new variable value	x /= 5;	x = x / 5;
+
+let a = 3; // x contains the value 3
+let b = 4; // y contains the value 4
+a *= b; // x now contains the value 12
