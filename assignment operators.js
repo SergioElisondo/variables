@@ -13,3 +13,7 @@ console.log(x)
 let a = 3; // x contains the value 3
 let b = 4; // y contains the value 4
 a *= b; // x now contains the value 12
+
+let c = 3; // x contains the value 3
+let d = 4; // y contains the value 4
+c /= d;
