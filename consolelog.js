@@ -38,7 +38,7 @@ let yuki = 10
 let toshi = 10
 console.log(yuki + toshi + 1 - 5 + 2)
 console.log(yuki)
-console.log(toshi, yuki)
+console.log(toshi, toshi)
 
 
 let gatos = (yuki, toshi)
