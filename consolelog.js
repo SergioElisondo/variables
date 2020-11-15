@@ -42,5 +42,5 @@ console.log(toshi, toshi)
 
 
 let gatos = (yuki, toshi)
-console.log =(gatos)
+console.log =(gatos, gatos)
 
