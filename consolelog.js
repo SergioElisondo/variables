@@ -43,3 +43,5 @@ console.log(toshi, toshi)
 
 let gatos = (yuki, toshi)
 console.log =(gatos, gatos, gatos, yuki, yuki)
+
+let talkingCats = 'this is camel case'
