@@ -51,4 +51,4 @@ let talkingCats2 = 'this is camel case with a number'
 console.log(talkingCats2)
 
 let catsDontTalk = "they meow"
-console.log(catsDontTalk, " adding more to it", (2 + 1))
+console.log(catsDontTalk, " adding more to it", (2 + 1), "this can keep going")
