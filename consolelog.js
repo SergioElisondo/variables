@@ -23,7 +23,7 @@ console.log('hello', 100 / 25)
 
 
 // declaring a variable using a string
-let cats = "toshi, yuki"
+let cats = "toshi, yuki, and maybe another?"
 console.log(cats)
 
 // math problem in variable
