@@ -13,3 +13,8 @@ let last = fruits[fruits.length - 1]
 console.log(first + last)
 
 
+fruits.forEach(function(item, index, array) {
+  console.log(item, index)
+})
+// Apple 0
+// Banana 1
