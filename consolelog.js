@@ -52,3 +52,5 @@ console.log(talkingCats2)
 
 let catsDontTalk = "they meow"
 console.log(catsDontTalk, " adding more to it", (2 + 1), "this can keep going", "and going", "and going", "now let's add some numbers", 120 + 21)
+
+let thisWillBeLong = "well, not this part"
