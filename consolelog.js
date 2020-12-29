@@ -53,5 +53,6 @@ console.log(talkingCats2)
 let catsDontTalk = "they meow"
 console.log(catsDontTalk, " adding more to it", (2 + 1), "this can keep going", "and going", "and going", "now let's add some numbers", 120 + 21)
 
+// making the output connect in an odd way
 let thisWillBeLong = "well, not this part"
-console.log(thisWillBeLong, "as with the above idea", " this can keep going")
+console.log(thisWillBeLong, "as with the above idea", " this can keep going", "while add both", yuki, "and", toshi)
