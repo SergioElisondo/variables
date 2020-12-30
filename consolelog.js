@@ -56,3 +56,5 @@ console.log(catsDontTalk, " adding more to it", (2 + 1), "this can keep going", 
 // making the output connect in an odd way
 let thisWillBeLong = "well, not this part"
 console.log(thisWillBeLong, "as with the above idea", " this can keep going", "while add both", yuki, "and", toshi)
+
+let test = "template string literals"
