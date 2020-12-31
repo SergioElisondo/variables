@@ -58,3 +58,4 @@ let thisWillBeLong = "well, not this part"
 console.log(thisWillBeLong, "as with the above idea", " this can keep going", "while add both", yuki, "and", toshi)
 
 let test = "template string literals"
+console.log(`${test} with some strings`)
