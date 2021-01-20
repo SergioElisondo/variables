@@ -60,4 +60,5 @@ console.log(thisWillBeLong, "as with the above idea", " this can keep going", "w
 let test = "template string literals"
 console.log(`${test} with some strings`, 24 + 21, "this worked", 302/21)
 
-let anotherTest = "TSL test  "
+let anotherTest = "TSL test"
+console.log(`${anotherTest}`)
