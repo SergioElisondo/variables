@@ -61,4 +61,4 @@ let test = "template string literals"
 console.log(`${test} with some strings`, 24 + 21, "this worked", 302/21)
 
 let anotherTest = "TSL test"
-console.log(`${anotherTest}`)
+console.log(`${anotherTest}`, 30 % 3)
