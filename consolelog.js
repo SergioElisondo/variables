@@ -64,3 +64,4 @@ let anotherTest = "TSL test"
 console.log(`${anotherTest}`, 30 % 3, `would this work? sure does`, "you can use multiple string literals ", `${anotherTest} so let's keep going!`, "be sure to separate with commas", 50%2, "and it can keep going" )
 
 let test3 = "didn't really add functions here"
+console.log('test3', 'still much practice')
