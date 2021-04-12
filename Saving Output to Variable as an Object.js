@@ -16,3 +16,5 @@ myPromise
   .then(handleResolvedA, handleRejectedA)
   .then(handleResolvedB, handleRejectedB)
   .then(handleResolvedC, handleRejectedC);
+
+  // have not yet added a .catch to the promise 
