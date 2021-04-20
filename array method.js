@@ -7,3 +7,12 @@
 
   console.log(name); // output: frugence
   console.log(nameArray); // output: ['f', 'r', 'u', 'g', 'e', 'n', 'c', 'e']
+
+    // I assume that you have created unorder list of items in our html file.
+
+  const lis = document.querySelectorAll('li');
+  const lisArray = Array.from(document.querySelectorAll('li'));
+
+  // is true array?
+  console.log(Array.isArray(lis)); // output: false
+  console.log(Array.isArray(lisArray));  // output: true
