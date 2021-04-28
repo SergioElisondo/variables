@@ -1,3 +1,5 @@
+// example 1
+
 let arr = ["I", "study", "JavaScript"];
 
 arr.splice(1, 1); // from index 1 remove 1 element
@@ -6,7 +8,7 @@ alert( arr ); // ["I", "JavaScript"]
 
 
 
-
+// example 2
 
 let arr = ["I", "study", "JavaScript", "right", "now"];
 
@@ -17,7 +19,7 @@ alert( arr ) // now ["Let's", "dance", "right", "now"]
 
 
 
-
+// example 3
 
 let arr = ["I", "study", "JavaScript", "right", "now"];
 
@@ -29,7 +31,7 @@ alert( removed ); // "I", "study" <-- array of removed elements
 
 
 
-
+// example 4
 
 let arr = ["I", "study", "JavaScript"];
 
