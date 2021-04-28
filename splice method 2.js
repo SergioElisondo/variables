@@ -10,3 +10,10 @@ let arr = ["I", "study", "JavaScript", "right", "now"];
 arr.splice(0, 3, "Let's", "dance");
 
 alert( arr ) // now ["Let's", "dance", "right", "now"]
+
+let arr = ["I", "study", "JavaScript", "right", "now"];
+
+// remove 2 first elements
+let removed = arr.splice(0, 2);
+
+alert( removed ); // "I", "study" <-- array of removed elements
