@@ -4,3 +4,9 @@ arr.splice(1, 1); // from index 1 remove 1 element
 
 alert( arr ); // ["I", "JavaScript"]
 
+let arr = ["I", "study", "JavaScript", "right", "now"];
+
+// remove 3 first elements and replace them with another
+arr.splice(0, 3, "Let's", "dance");
+
+alert( arr ) // now ["Let's", "dance", "right", "now"]
