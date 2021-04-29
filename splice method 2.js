@@ -39,5 +39,5 @@ let arr = ["I", "study", "JavaScript"];
 // delete 0
 // then insert "complex" and "language"
 arr.splice(2, 0, "complex", "language");
-
+console.log(arr)
 alert( arr ); // "I", "study", "complex", "language", "JavaScript"
