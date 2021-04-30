@@ -31,7 +31,7 @@ alert( removed ); // "I", "study" <-- array of removed elements
 
 
 
-// example 4
+// example 4 
 
 let arr = ["I", "study", "JavaScript"];
 
