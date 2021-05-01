@@ -19,7 +19,7 @@ alert( arr ) // now ["Let's", "dance", "right", "now"]
 
 
 
-// example 3
+// example 3 changing index
 
 let arr = ["I", "study", "JavaScript", "right", "now"];
 
