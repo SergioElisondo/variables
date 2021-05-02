@@ -8,7 +8,7 @@ alert( arr ); // ["I", "JavaScript"]
 
 
 
-// example 2
+// example 2 replace words / sentence
 
 let arr = ["I", "study", "JavaScript", "right", "now"];
 
