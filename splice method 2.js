@@ -52,3 +52,13 @@ console.log(myFish)
 
 // myFish is ["angel", "clown", "drum", "mandarin", "sturgeon"]
 // removed is [], no elements removed
+
+
+
+//example 6
+// Remove 0 (zero) elements before index 2, and insert "drum" and "guitar"
+let myFish = ['angel', 'clown', 'mandarin', 'sturgeon']
+let removed = myFish.splice(2, 0, 'drum', 'guitar')
+
+// myFish is ["angel", "clown", "drum", "guitar", "mandarin", "sturgeon"]
+// removed is [], no elements removed
