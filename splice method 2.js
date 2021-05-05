@@ -41,3 +41,14 @@ let arr = ["I", "study", "JavaScript"];
 arr.splice(2, 0, "complex", "language");
 console.log(arr)
 alert( arr ); // "I", "study", "complex", "language", "JavaScript"
+
+
+
+// example 5 
+// Remove 0 (zero) elements before index 2, and insert "drum"
+let myFish = ['angel', 'clown', 'mandarin', 'sturgeon']
+let removed = myFish.splice(2, 0, 'drum')
+console.log(myFish)
+
+// myFish is ["angel", "clown", "drum", "mandarin", "sturgeon"]
+// removed is [], no elements removed
