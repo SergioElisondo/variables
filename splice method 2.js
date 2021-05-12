@@ -110,3 +110,13 @@ let removed = myFish.splice(-2, 1)
 
 // myFish is ["angel", "clown", "sturgeon"]
 // removed is ["mandarin"]
+
+
+// example 12
+//Remove all elements, starting from index 2
+
+let myFish = ['angel', 'clown', 'mandarin', 'sturgeon']
+let removed = myFish.splice(2)
+
+// myFish is ["angel", "clown"]
+// removed is ["mandarin", "sturgeon"]
