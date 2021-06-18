@@ -65,3 +65,5 @@ console.log(`${anotherTest}`, 30 % 3, `would this work? sure does`, "you can use
 
 let test3 = "didn't really add functions here"
 console.log('test3', 'still much practice', `using STL`)
+
+// looking back at practicing -- silly notes
