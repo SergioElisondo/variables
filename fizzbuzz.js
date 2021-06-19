@@ -11,7 +11,7 @@ for (var i=1; i <= 100; i++)
 }
 
 
-// as a function 
+// as a function
 
 function fizzbuzz(){
   for(let i = 1; i <= 100; i++){
