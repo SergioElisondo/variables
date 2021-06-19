@@ -1,6 +1,6 @@
 for (var i=1; i <= 100; i++)
 {
-    if (i % 3 == 0 || i % 5 == 0) // could also do "i % 15 == 0"
+    if (i % 3 == 0 || i % 5 == 0) // could also do "i % 15 == 0" and take out ||
         console.log(`${i} FizzBuzz`);
     else if (i % 3 == 0)
         console.log(`${i} Fizz`);
